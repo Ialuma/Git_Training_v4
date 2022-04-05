@@ -1,2 +1,8 @@
+
 This is Sample File 
 Abu Bakarr Tostao Kamara also doubles as the Head Coach of the Sierra Leone male U-20 side, and in 2019 he guided the team to reach the semifinals of the West .
+
+This is Sample File 1
+Git revert commit 1
+This comparison lecture 
+
