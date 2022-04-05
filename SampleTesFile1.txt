@@ -5,4 +5,5 @@ Abu Bakarr Tostao Kamara also doubles as the Head Coach of the Sierra Leone male
 This is Sample File 1
 Git revert commit 1
 This comparison lecture 
+This is stash lecture, change in File
 
